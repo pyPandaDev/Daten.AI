@@ -1,0 +1,46 @@
+# Core FastAPI
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+python-multipart>=0.0.18
+pydantic>=2.10.0
+pydantic-settings>=2.6.0
+python-dotenv>=1.0.0
+
+# Data Science Libraries (latest versions with Python 3.13 wheels)
+pandas>=2.2.0
+numpy>=2.0.0
+matplotlib>=3.9.0
+seaborn>=0.13.2
+scikit-learn>=1.6.0
+scipy>=1.14.0
+
+# File Processing
+openpyxl>=3.1.5
+pyarrow>=18.0.0
+
+# PDF Generation
+reportlab>=4.2.5
+pillow>=11.0.0
+
+# AI/ML
+google-generativeai>=0.8.0
+
+# Utilities
+aiofiles>=24.1.0
+sse-starlette>=2.2.0
+
+# Time Series Analysis
+statsmodels>=0.14.4
+prophet>=1.1.6
+
+# Advanced ML
+xgboost>=2.1.3
+lightgbm>=4.5.0
+catboost>=1.2.7
+imbalanced-learn>=0.12.4
+
+# Model Interpretation
+shap>=0.46.0
+
+# Additional Statistics
+pingouin>=0.5.5
