@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 Daten.AI - AI-Powered Data Analysis Platform
 
 <div align="center">
@@ -555,3 +556,6 @@ For issues, questions, or suggestions:
 ---
 
 **Built with ❤️ using AI-powered development tools**
+=======
+# Daten.AI
+>>>>>>> fd3d894143c6adefdefa0d0c90de6f00de35b18f
