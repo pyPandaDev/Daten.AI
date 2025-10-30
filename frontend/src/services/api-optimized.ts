@@ -237,7 +237,7 @@ class OptimizedAPI {
   }
 
   async post<T>(url: string, data?: any, config?: AxiosRequestConfig): Promise<T> {
-    const requestId = this.generateRequestId();
+    const requestId = `${url}:${this.generateRequestId()}`;
     const startTime = this.monitor.start(requestId);
     
     try {
